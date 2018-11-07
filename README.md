@@ -21,6 +21,8 @@ ex)AT+NAME? -> 세팅된 NAME을 보여줌
 ex)AT+NAMEB01 -> NAME을 B01로 
 
 
+
+
 NAME 설정: AT+NAME
 
 UUID 설정: AT+UUID
@@ -30,6 +32,7 @@ ex) AT+UUID0x0001
 MAJOR 설정: AT+MARJ
 
 ex) AT+MARJ0x0001
+
 
 MINOR 설정: AT+MINO
 
@@ -45,4 +48,8 @@ AT+DELO2 : broadcast only
 AT+RESET
 
 AT+PWRM0 하면 auto sleep 이고 wake 시킬려면 80자 이상을 보내면 된다.
+
+
+
+※ 세팅하고 한번씩 AT+RESET 해주기
 
