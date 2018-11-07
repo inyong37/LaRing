@@ -20,20 +20,29 @@ ex)AT+NAME? -> 세팅된 NAME을 보여줌
 
 ex)AT+NAMEB01 -> NAME을 B01로 
 
-AT+COMMAND
 
-NAME 설정
+NAME 설정: AT+NAME
 
-AT+NAME
+UUID 설정: AT+UUID
 
-UUID 설정
+ex) AT+UUID0x0001
 
-AT+UUID
+MAJOR 설정: AT+MARJ
 
-MAJOR 설정
+ex) AT+MARJ0x0001
 
-AT+MARJ
+MINOR 설정: AT+MINO
 
-MINOR 
+ex) AT+MINO0x0001
 
-AT+MINO
+
+iBeacon 설정: AT+IBEA 0이면 disable 1이면 enabled
+
+advertisement 주기 설정: AT+ADVI5 5이면 0.5초 간격
+
+AT+DELO2 : broadcast only
+
+AT+RESET
+
+AT+PWRM0 하면 auto sleep 이고 wake 시킬려면 80자 이상을 보내면 된다.
+
