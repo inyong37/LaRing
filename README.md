@@ -1,4 +1,3 @@
 # LaRing
-Smart Buoyant Band
-
+## Smart Buoyant Band
 2017 Spring to Winter
