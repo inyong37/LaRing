@@ -1,3 +1,6 @@
 # LaRing
+
 ## Smart Buoyant Band
-From Spring to Winter, 2017
+
+### Date
+Summer, 2017 ~ Spring, 2018
